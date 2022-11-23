@@ -11,5 +11,8 @@ create table with following settings
 'HOST': 'localhost',
 'PORT': '',
 
+Add user name and password in the settings.py file of the project
+
+
 RUN migration
 then run python manage.py runserver
